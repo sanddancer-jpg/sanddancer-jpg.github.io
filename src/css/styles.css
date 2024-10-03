@@ -14,3 +14,8 @@ h1, h2, h3 {
 {
     color: green;
 }
+
+.carousel-caption {
+    background-color: green;
+    opacity: 0.8;
+}
